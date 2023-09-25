@@ -1,0 +1,29 @@
+.Sobremi{
+
+    padding: 20px;
+    max-width: 1050px;
+    background-color: #1e2326;
+    margin:auto;
+    text-align: center;
+    border-radius: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
+}
+
+.Titulo_Sobremi{
+
+    color: rgb(131, 199, 236);
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Tektur', cursive;
+
+}
+
+.info_Sobremi{
+
+    color:  rgb(150, 240, 128);
+    font-size: 134%;
+
+}

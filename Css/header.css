@@ -1,0 +1,57 @@
+.contenedor_header{
+    background: #232729;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    font-family: 'Caprasimo', cursive;
+}
+
+.contenedor_header header{
+    max-width: 1500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 15px 20px;
+}
+
+.Nombre{
+    font-family: 'Handjet', cursive;
+    font-size: 160%;
+    color: #63a8b4;
+    text-decoration: none;
+    transition: .5s;
+    display:inline-flex;
+    
+}
+
+
+
+
+.Nombre:hover{
+
+    transition: .5s;
+    color: rgb(197, 134, 134);
+    
+}
+
+.menu1{
+    font-family: 'Fjalla One', sans-serif;
+    display:inline-flex;
+    list-style:none;
+}
+
+.parte {
+    font-size: 120%;
+    text-align: none;
+    color: #34e99d;
+    margin: 0 30px;
+    padding: 5px;
+    transition: .5s;
+    text-decoration: none;
+}
+.parte:hover {
+    color: rgb(197, 134, 134);
+}

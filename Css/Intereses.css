@@ -1,0 +1,64 @@
+th,td{
+
+    padding: 1%;
+
+}
+
+.Intereses{
+    
+    padding: 20px;
+    max-width: 1050px;
+    background-color: #1e2326;
+    margin:auto;
+    text-align: center;
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.Intereses_titulo{
+
+    color: rgb(131, 199, 236);  
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Tektur', cursive;
+
+}
+
+.pasa{
+
+    width: 150px;
+    height: 100px;
+    background-color: #252A2E;
+    border-radius: 10px;
+    margin: 0 15px 15px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    transition: .3s;
+    color:  rgb(150, 240, 128);
+    cursor: pointer;    
+
+}
+
+.pasa:hover{
+
+    transition: .5s;
+    color: rgb(197, 134, 134);
+    
+
+}
+
+.Hobbies_img{
+
+    font-size: 110%;
+    padding:10px;
+    margin-top: 15px;
+    transition: .5s;   
+
+}
+

@@ -1,0 +1,99 @@
+.Contacto{
+
+    background:linear-gradient(to top, rgb(0, 0, 0), rgba(30,35,38,.8));
+    padding: 50px 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.all_contacto{
+
+    padding: 20px;
+    max-width: 1050px;
+    background-color: #1e2326;
+    margin:auto;
+    text-align: center;
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 7px 13px 37px #000;
+
+}
+
+.contact{
+
+    background-color: #252A2E;
+    padding: 20px;
+    max-width: 1050px;
+    margin:auto;
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 15px 15px 0;
+
+}
+
+.contacto_titulo{
+
+    color: rgb(131, 199, 236);  
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Tektur', cursive;
+    
+
+}
+
+.contacto_subtitulo{
+
+    color:  rgb(150, 240, 128);
+    font-size: 134%;
+    
+
+}
+
+.forma{
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+
+}
+
+.respuesta{
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #252A2E;
+    font-size: 25px;
+    border-radius: 5px;
+    border: 1px solid #1f53c5;
+    font-family:'Tektur', cursive ;
+
+}
+
+.enviar{
+
+    align-self: center  ;
+    width: 50%;
+    margin-top: 10px;
+    background: #7f82dd;
+    border:none;
+    padding: 12px;
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Tektur', cursive;
+    cursor: pointer;
+    transition: .5s;
+    border-radius: 10px;
+
+}
+
+.enviar:hover{
+
+    transition: .5s;
+    background: #ddbc7f;
+    color: #000;
+
+}

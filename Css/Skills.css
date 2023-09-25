@@ -1,0 +1,57 @@
+.Skills{
+
+    background:linear-gradient(to top, rgba(30,35,38,1), rgba(30,35,38,.8));
+    padding: 50px 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.Tabla_skills{
+
+    padding: 20px;
+    max-width: 1050px;
+    background-color: #1e2326;
+    margin:auto;
+    text-align: center;
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.Skills_titulo{
+
+    color: rgb(131, 199, 236);  
+    text-align: center;
+    font-size: 150%;
+    font-family: 'Tektur', cursive;
+
+}
+
+.tipos_Skills{
+
+    color: rgb(236, 131, 131);  
+    text-align: center;
+    font-size: 120%;
+    font-family: 'Tektur', cursive;
+
+}
+.skills1{
+
+    background-color: #252A2E;
+    border-radius: 10px;
+    margin: 0 15px 15px 0;
+    width: 1500px;
+    height: 50px;
+
+}
+
+.skills2{
+
+    background-color: #252A2E;
+    border-radius: 10px;
+    
+
+}
